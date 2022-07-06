@@ -1,0 +1,9 @@
+crud app => create read update delete
+
+user=> id, name, gender
+
+{}  []
+
+function => read from storage => null => create [] or data []
+function => add User inside array
+function write into storage
